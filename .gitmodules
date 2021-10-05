@@ -1,3 +1,6 @@
 [submodule "rl-kpi"]
 	path = rl-kpi
 	url = https://github.com/YKochura/rl-kpi.git
+[submodule "cv-kpi"]
+	path = cv-kpi
+	url = https://github.com/YKochura/cv-kpi.git
