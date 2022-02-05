@@ -7,3 +7,6 @@
 [submodule "rnn-kpi"]
 	path = rnn-kpi
 	url = https://github.com/YKochura/rnn-kpi.git
+[submodule "ac-kpi"]
+	path = ac-kpi
+	url = https://github.com/YKochura/ac-kpi.git
