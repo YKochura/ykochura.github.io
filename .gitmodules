@@ -10,3 +10,6 @@
 [submodule "ac-kpi"]
 	path = ac-kpi
 	url = https://github.com/YKochura/ac-kpi.git
+[submodule "ai-lab"]
+	path = ai-lab
+	url = https://github.com/YKochura/ai-lab.git
