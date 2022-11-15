@@ -15,4 +15,4 @@
 	url = https://github.com/YKochura/ai-lab.git
 [submodule "ai-lec"]
 	path = ai-lec
-	url = ./ai-lec/
+	url = https://github.com/YKochura/ai-lec.git
