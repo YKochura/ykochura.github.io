@@ -523,3 +523,106 @@ body {
 .wrapper         {width:100%; max-width: 750px; height:100%; margin:0 auto; background:#111}
 .h_iframe        {position:relative; padding-top: 56%;}
 .h_iframe iframe {position:absolute;top:0;left:0;width:100%; height:100%;}
+
+
+/* додано  https://www.youtube.com/watch?v=ByraB2uMAiM&t=448s */
+
+.selected-lang{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    line-height: 1.25;
+    width: 70px;
+}
+
+.lang-menu {
+    width: 180px;
+    text-align: right;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 5px;
+    position: relative;
+}
+
+.selected-lang:before{
+    content: '';
+    display: block;
+    width: 32px;
+    height: 21px;
+    background-image: url(../img/usa.png);
+
+}
+
+.selected-lang-uk{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    line-height: 1.25;
+    width: 70px;
+}
+
+.selected-lang-uk:before{
+    content: '';
+    display: block;
+    width: 32px;
+    height: 21px;
+    background-image: url(../img/ukr.png);
+
+}
+
+.lang-menu ul {
+    margin: 0;
+    padding: 0;
+    display: none;
+    background-color: #5d5d5d;
+    border: 1px solid #b2babb;
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    width: 110px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.4);
+}
+
+.lang-menu ul li {
+    list-style: none;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lang-menu ul li a {
+    text-decoration: none;
+    width: 110px;
+    padding: 25px 10px;
+    display: block;
+}
+
+.lang-menu ul li:hover {
+    background-color: #b2babb;
+}
+
+.lang-menu ul li a:before {
+    content: '';
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    vertical-align: middle;
+    margin-right: 15px;
+    background-size: contain;
+    background-repeat: no-repeat;
+} 
+
+
+.en:before {
+    background-image: url(../img/usa.png);
+}
+
+.uk:before {
+    background-image: url(../img/ukr.png);
+}
+
+
+.lang-menu:hover ul {
+    display: block;
+}
