@@ -286,6 +286,10 @@ a.fa-twitter{
     border-radius: 50%;
 }
 
+.img-border {
+    border-radius: 10px;
+}
+
 .text-padded{
 	padding-top: 50px;
 }
