@@ -18,4 +18,4 @@
 	url = https://github.com/YKochura/ai-lec.git
 [submodule "mld-kpi"]
 	path = mld-kpi
-	url = ./mld-kpi/
+	url = https://github.com/YKochura/mld-kpi.git
