@@ -19,3 +19,6 @@
 [submodule "mld-kpi"]
 	path = mld-kpi
 	url = https://github.com/YKochura/mld-kpi.git
+[submodule "diss"]
+	path = diss
+	url = https://github.com/YKochura/diss.git
