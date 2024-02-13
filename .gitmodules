@@ -24,4 +24,4 @@
 	url = https://github.com/YKochura/diss.git
 [submodule "ml-kpi"]
 	path = ml-kpi
-	url = ./ml-kpi/
+	url = https://github.com/YKochura/ml-kpi.git
