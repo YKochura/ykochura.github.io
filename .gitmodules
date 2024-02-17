@@ -25,3 +25,6 @@
 [submodule "ml-kpi"]
 	path = ml-kpi
 	url = https://github.com/YKochura/ml-kpi.git
+[submodule "nn-kpi"]
+	path = nn-kpi
+	url = https://github.com/YKochura/nn-kpi.git
