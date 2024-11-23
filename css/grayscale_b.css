@@ -83,7 +83,7 @@ th.first{
     }
 
 	p.entry, table {
-		background-color: #fff;
+		background-color: #252525;
 	/*background: repeating-linear-gradient(
 	  45deg,
 	  #111,
@@ -98,13 +98,13 @@ th.first{
 	}
 
 	th.entry {
-		background-color: #fff;	
-		padding-top:9px;
+		background-color: #252525; 
+		padding-top:21px;
 		padding-right:9px;
 		padding-bottom:9px;
 	}
 	th.workshops{
-		padding-left:15px;
+		padding-left:17px;
 	}
 
 }
