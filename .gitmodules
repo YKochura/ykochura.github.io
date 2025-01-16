@@ -30,4 +30,4 @@
 	url = https://github.com/YKochura/nn-kpi.git
 [submodule "nns-kpi"]
 	path = nns-kpi
-	url = ./nns-kpi
+	url = https://github.com/YKochura/nns-kpi.git
