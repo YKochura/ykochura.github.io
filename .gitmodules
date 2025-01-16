@@ -28,3 +28,6 @@
 [submodule "nn-kpi"]
 	path = nn-kpi
 	url = https://github.com/YKochura/nn-kpi.git
+[submodule "nns-kpi"]
+	path = nns-kpi
+	url = ./nns-kpi
