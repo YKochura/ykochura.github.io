@@ -34,3 +34,6 @@
 [submodule "ga-kpi"]
 	path = ga-kpi
 	url = https://github.com/YKochura/ga-kpi.git
+[submodule "nopt-kpi"]
+	path = nopt-kpi
+	url = https://github.com/YKochura/nopt-kpi.git
