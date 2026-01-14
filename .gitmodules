@@ -34,3 +34,6 @@
 [submodule "nopt-kpi"]
 	path = nopt-kpi
 	url = https://github.com/YKochura/nopt-kpi.git
+[submodule "mls-kpi"]
+	path = mls-kpi
+	url = https://github.com/YKochura/mls-kpi.git
